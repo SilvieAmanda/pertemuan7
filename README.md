@@ -1,5 +1,4 @@
-# Snack Expo (MERN)
+# Pertemuan 7 bagian backend expomern
 
-FrontEnd :
-https://snack.expo.dev/@alriawi/6?platform=web
- 
+Nama : Silvie Amanda
+NPM : 213510091 
